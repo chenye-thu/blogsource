@@ -4,4 +4,4 @@
 
 *.exe
 ink/blog/public/
-ink/blog/theme/
+#ink/blog/theme/
