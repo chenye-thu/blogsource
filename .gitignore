@@ -1,0 +1,7 @@
+#################
+## only need source files and config files
+#################
+
+*.exe
+ink/blog/public/
+ink/blog/theme/
