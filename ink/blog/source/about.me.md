@@ -6,6 +6,8 @@ author: me
 
 ## 夜凉如水
 
-一只喜欢coding，但是资质太差的狗。
+> 一只喜欢coding，但是资质太差的狗。
 
-[http://chenye-thu.github.io/](http://chenye-thu.github.io/)
+
+- **GitHub**:[https://github.com/chenye-thu](https://github.com/chenye-thu)
+- **个人主页**：[http://chenye-thu.github.io/](http://chenye-thu.github.io/)
