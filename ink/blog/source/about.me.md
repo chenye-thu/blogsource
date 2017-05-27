@@ -10,4 +10,4 @@ author: me
 
 
 - **GitHub**:[https://github.com/chenye-thu](https://github.com/chenye-thu)
-- **个人主页**：[http://chenye-thu.github.io/](http://chenye-thu.github.io/)
+- **个人主页**：[http://chenye.science/](http://chenye.science/)
