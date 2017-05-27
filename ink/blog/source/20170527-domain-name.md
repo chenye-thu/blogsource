@@ -22,7 +22,7 @@ preview: 在阿里云购买了域名，并与GitHub Pages里的博客绑定。
 
 因为只是给自己个人博客用而已，不需要`.com`这种，肯定越便宜越好。经过考虑，还是选择阿里云，感觉`.science`域名听上去很牛逼，而且价格便宜，并且[chenye.science](http://chenye.science)好没有人注册，那必须决定是它了。十年只要68元，首年便宜了2元。调研还是有用啊，前一阵差一点花五六百去买域名了。
 
-##域名绑定GitHub Pages
+## 域名绑定GitHub Pages
 有了域名之后，就着手绑定GitHub上的博客了。
 
 非常简单，参考了这篇博文：[GitHub Pages 绑定域名](http://blog.csdn.net/u013282507/article/details/54944395)
