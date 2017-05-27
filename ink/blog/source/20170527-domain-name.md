@@ -4,7 +4,7 @@ update: 2017-05-27 16:40:00 +0800
 author: me
 # cover: "-/images/xxx.jpg"
 tags:
-    - Web
+    - web
     - 域名
     - 技术
 preview: 在阿里云购买了域名，并与GitHub Pages里的博客绑定。
