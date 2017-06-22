@@ -7,6 +7,7 @@ tags:
     - 编程
     - Qt
     - 作图
+    - QCustomPlot
 preview: QCustomplot图形交互接口学习。
 
 ---
