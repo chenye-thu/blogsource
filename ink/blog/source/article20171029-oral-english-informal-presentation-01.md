@@ -12,7 +12,7 @@ preview: Creating your personal website for free. Draft of Oral English Informal
 
 ---
 
-> 2017-10-29 Wednesday. Sunny. Beijing. PKU
+> 2017-10-29 Sunday. Sunny. Beijing. PKU
 
 ## Creating Your Personal Website for Free ##
 
